@@ -1,0 +1,8 @@
+# Installing drEEM Toolbox
+
+1. Download the latest version from: http://dreem.openfluor.org/
+2. Extract the folder to your MATLAB directory.
+3. Open MATLAB and run:
+   cd('/your/path/to/drEEM')
+   dreeminstall
+4. one example is given in the misconnection_demo.mat
